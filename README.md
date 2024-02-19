@@ -10,3 +10,6 @@ _so it is now downloadable for all to use! Or so people can use this UI over the
 
 ## Alternative Downloads:
 - Modrinth: **Not available yet, submitted and under review**
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W5SW25P)
