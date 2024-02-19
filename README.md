@@ -7,3 +7,6 @@ This repository is so you can mark down issues or suggestions for the pack to be
 **Extra Note:**
 _This was previously used as a UI pack for a project called PlushieHavoc, it has since receieved drastic changes._
 _so it is now downloadable for all to use! Or so people can use this UI over the new one the project has._
+
+## Alternative Downloads:
+- Modrinth: **Not available yet, submitted and under review**
