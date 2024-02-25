@@ -9,7 +9,7 @@ _This was previously used as a UI pack for a project called PlushieHavoc, it has
 _so it is now downloadable for all to use! Or so people can use this UI over the new one the project has._
 
 ## Alternative Downloads:
-- Modrinth: **Not available yet, submitted and under review**
+- Modrinth: [Enhanced-Hotbar](https://modrinth.com/resourcepack/enhanced-hotbar)
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W5SW25P)
